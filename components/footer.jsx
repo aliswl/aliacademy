@@ -17,10 +17,10 @@ export default function Footer() {
                 <p className="flex items-center gap-2">
                   <Mail className="w-5 h-5 text-blue-700" />
                   <a
-                    href="mailto:aliuoscs@gmail.com"
+                    href="mailto:imaliraza10@gmail.com"
                     className="text-blue-700 hover:text-blue-300 transition"
                   >
-                    aliuoscs@gmail.com
+                    imaliraza10@gmail.com
                   </a>
                 </p>
 
